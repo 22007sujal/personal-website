@@ -1,1 +1,1 @@
-this repo is for my personal webiste
+this repo is for my personal website that tells about me and my skills 
